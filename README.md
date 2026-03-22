@@ -44,3 +44,29 @@ Output is displayed with:
 
 🟢 Green → Available
 🔴 Red → Occupied
+
+💡 Future Improvements
+
+📍 Integration with real-time CCTV feeds
+
+📱 Mobile app for live parking updates
+
+🧠 Deep learning-based detection for higher accuracy
+
+🌐 Cloud deployment for scalability
+
+🚘 Automatic vehicle counting and tracking
+
+📸 Output Example
+
+Parking slots highlighted with color indicators
+Real-time availability display
+🙌 Why This Project Matters
+
+This project addresses a real-world problem faced in urban areas. It can be extended to smart city solutions, reducing traffic congestion and saving time for drivers.
+
+👨‍💻 Author
+
+Aushij Hajela 
+B.Tech CSE (AI/ML) 
+Passionate about building real-world AI solutions 
